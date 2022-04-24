@@ -27,3 +27,5 @@ https://github.com/ORCA666/WHALE
 
 https://github.com/optiv/ScareCrow
 
+https://github.com/mgeeky/ShellcodeFluctuation
+
