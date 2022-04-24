@@ -23,5 +23,7 @@ https://github.com/ORCA666/EVA2
 
 https://github.com/ORCA666/EVA3
 
+https://github.com/ORCA666/WHALE
+
 https://github.com/optiv/ScareCrow
 
