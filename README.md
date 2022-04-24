@@ -17,3 +17,11 @@ https://github.com/waldo-irc/YouMayPasser
 
 https://github.com/aaaddress1/Skrull
 
+https://github.com/ORCA666/EVA
+
+https://github.com/ORCA666/EVA2
+
+https://github.com/ORCA666/EVA3
+
+https://github.com/optiv/ScareCrow
+
