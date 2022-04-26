@@ -51,3 +51,5 @@ https://github.com/TheWover/donut
 
 https://github.com/aeverj/NimShellCodeLoader
 
+https://github.com/pwn1sher/uuid-loader
+
