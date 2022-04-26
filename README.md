@@ -63,4 +63,7 @@ https://github.com/cr7pt0pl4gu3/Pestilence
 
 https://github.com/zha0/BloodyAv
 
+https://github.com/0xsp-SRD/mortar
+
+https://github.com/mdsecactivebreach/ParallelSyscalls
 
