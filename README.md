@@ -69,3 +69,5 @@ https://github.com/mdsecactivebreach/ParallelSyscalls
 
 https://github.com/Cracked5pider/KaynLdr
 
+https://github.com/frkngksl/Huan
+
