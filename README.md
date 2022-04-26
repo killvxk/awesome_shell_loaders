@@ -35,4 +35,5 @@ https://github.com/xuanxuan0/DripLoader
 
 https://github.com/boku7/BokuLoader
 
+https://github.com/j0urney1/TitanLdr_for_memory
 
