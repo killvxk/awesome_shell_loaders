@@ -41,3 +41,10 @@ https://github.com/oXis/GPUSleep
 
 https://github.com/airbus-cert/Invoke-Bof
 
+https://github.com/youhacker55/shellcoderunner
+
+https://github.com/0xEmil/ByteMap-Shellcode-Loader
+
+https://github.com/Zebratic/UE4Injector
+
+https://github.com/TheWover/donut
