@@ -48,3 +48,6 @@ https://github.com/0xEmil/ByteMap-Shellcode-Loader
 https://github.com/Zebratic/UE4Injector
 
 https://github.com/TheWover/donut
+
+https://github.com/aeverj/NimShellCodeLoader
+
