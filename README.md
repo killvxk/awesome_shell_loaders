@@ -53,3 +53,5 @@ https://github.com/aeverj/NimShellCodeLoader
 
 https://github.com/pwn1sher/uuid-loader
 
+https://github.com/cribdragg3r/Alaris
+
