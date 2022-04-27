@@ -71,3 +71,5 @@ https://github.com/Cracked5pider/KaynLdr
 
 https://github.com/frkngksl/Huan
 
+https://github.com/H1d3r/snaploader
+
