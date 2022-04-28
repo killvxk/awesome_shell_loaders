@@ -73,3 +73,6 @@ https://github.com/frkngksl/Huan
 
 https://github.com/H1d3r/snaploader
 
+## other useful loaders
+https://github.com/jnastarot/native_peloader.git
+
