@@ -73,6 +73,8 @@ https://github.com/frkngksl/Huan
 
 https://github.com/H1d3r/snaploader
 
+https://github.com/G73st/BypassAV
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader.git
 
