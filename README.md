@@ -82,5 +82,8 @@ https://github.com/jnastarot/native_peloader.git
 
 https://github.com/wonderkun/go-packer
 
+https://github.com/bats3c/DarkLoadLibrary
+
+
 
 
