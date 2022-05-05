@@ -80,3 +80,7 @@ https://github.com/aniqfakhrul/Sharperner
 ## other useful loaders
 https://github.com/jnastarot/native_peloader.git
 
+https://github.com/wonderkun/go-packer
+
+
+
