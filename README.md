@@ -77,6 +77,9 @@ https://github.com/G73st/BypassAV
 
 https://github.com/aniqfakhrul/Sharperner
 
+https://github.com/chvancooten/NimPackt-v1
+
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader.git
 
