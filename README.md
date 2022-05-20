@@ -79,6 +79,9 @@ https://github.com/aniqfakhrul/Sharperner
 
 https://github.com/chvancooten/NimPackt-v1
 
+https://github.com/icyguider/Nimcrypt2
+
+
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader.git
