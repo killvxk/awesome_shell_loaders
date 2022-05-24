@@ -81,6 +81,7 @@ https://github.com/chvancooten/NimPackt-v1
 
 https://github.com/icyguider/Nimcrypt2
 
+https://github.com/0xsp-SRD/mortar
 
 
 ## other useful loaders
