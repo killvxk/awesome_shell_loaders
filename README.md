@@ -85,7 +85,7 @@ https://github.com/0xsp-SRD/mortar
 
 
 ## other useful loaders
-https://github.com/jnastarot/native_peloader.git
+https://github.com/jnastarot/native_peloader
 
 https://github.com/wonderkun/go-packer
 
