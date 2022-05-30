@@ -83,6 +83,8 @@ https://github.com/icyguider/Nimcrypt2
 
 https://github.com/0xsp-SRD/mortar
 
+https://github.com/S4ntiagoP/freeBokuLoader
+
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
