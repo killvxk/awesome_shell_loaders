@@ -94,6 +94,5 @@ https://github.com/wonderkun/go-packer
 
 https://github.com/bats3c/DarkLoadLibrary
 
-
-
+https://github.com/malware-unicorn/rusty-memory-loadlibrary
 
