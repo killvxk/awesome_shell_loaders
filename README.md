@@ -85,6 +85,7 @@ https://github.com/0xsp-SRD/mortar
 
 https://github.com/S4ntiagoP/freeBokuLoader
 
+https://github.com/klezVirus/NimlineWhispers3
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
