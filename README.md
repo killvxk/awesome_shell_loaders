@@ -89,6 +89,7 @@ https://github.com/klezVirus/NimlineWhispers3
 
 https://github.com/yzddmr6/Java-Shellcode-Loader
 
+https://github.com/Cracked5pider/KaynStrike
 
 
 ## other useful loaders
