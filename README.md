@@ -87,6 +87,10 @@ https://github.com/S4ntiagoP/freeBokuLoader
 
 https://github.com/klezVirus/NimlineWhispers3
 
+https://github.com/yzddmr6/Java-Shellcode-Loader
+
+
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
