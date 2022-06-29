@@ -101,3 +101,7 @@ https://github.com/bats3c/DarkLoadLibrary
 
 https://github.com/malware-unicorn/rusty-memory-loadlibrary
 
+https://github.com/adamsvoboda/nim-loader
+
+
+
