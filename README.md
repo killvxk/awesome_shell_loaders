@@ -91,6 +91,7 @@ https://github.com/yzddmr6/Java-Shellcode-Loader
 
 https://github.com/Cracked5pider/KaynStrike
 
+https://github.com/xforcered/BokuLoader
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
