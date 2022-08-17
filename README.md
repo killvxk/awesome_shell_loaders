@@ -93,6 +93,8 @@ https://github.com/Cracked5pider/KaynStrike
 
 https://github.com/xforcered/BokuLoader
 
+https://github.com/kyleavery/AceLdr
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
