@@ -95,6 +95,8 @@ https://github.com/xforcered/BokuLoader
 
 https://github.com/kyleavery/AceLdr
 
+https://github.com/Idov31/Cronos
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
