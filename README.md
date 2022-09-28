@@ -97,6 +97,9 @@ https://github.com/kyleavery/AceLdr
 
 https://github.com/Idov31/Cronos
 
+https://github.com/optiv/Freeze
+
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
