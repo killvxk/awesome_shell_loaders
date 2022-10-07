@@ -99,6 +99,7 @@ https://github.com/Idov31/Cronos
 
 https://github.com/optiv/Freeze
 
+https://github.com/D1rkMtr/ObfLoader
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
