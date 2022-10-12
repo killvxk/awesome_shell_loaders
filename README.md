@@ -112,5 +112,6 @@ https://github.com/malware-unicorn/rusty-memory-loadlibrary
 
 https://github.com/adamsvoboda/nim-loader
 
+https://github.com/ORCx41/AtomPePacker
 
 
