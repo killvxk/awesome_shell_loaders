@@ -114,4 +114,7 @@ https://github.com/adamsvoboda/nim-loader
 
 https://github.com/ORCx41/AtomPePacker
 
+https://github.com/neox41/COFFLoader2
+
+
 
