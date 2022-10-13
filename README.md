@@ -116,5 +116,5 @@ https://github.com/ORCx41/AtomPePacker
 
 https://github.com/neox41/COFFLoader2
 
-
+https://github.com/trustedsec/COFFLoader
 
