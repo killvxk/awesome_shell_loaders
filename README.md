@@ -101,6 +101,8 @@ https://github.com/optiv/Freeze
 
 https://github.com/D1rkMtr/ObfLoader
 
+https://github.com/zimnyaa/PhaseDive
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
