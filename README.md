@@ -103,6 +103,9 @@ https://github.com/D1rkMtr/ObfLoader
 
 https://github.com/zimnyaa/PhaseDive
 
+https://github.com/capt-meelo/laZzzy
+
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
