@@ -123,3 +123,7 @@ https://github.com/neox41/COFFLoader2
 
 https://github.com/trustedsec/COFFLoader
 
+https://github.com/ShadowMccc/MemoryEvasion
+
+
+
