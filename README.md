@@ -105,6 +105,8 @@ https://github.com/zimnyaa/PhaseDive
 
 https://github.com/capt-meelo/laZzzy
 
+https://github.com/NUL0x4C/AtomLdr
+
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
