@@ -107,6 +107,8 @@ https://github.com/capt-meelo/laZzzy
 
 https://github.com/NUL0x4C/AtomLdr
 
+https://github.com/lem0nSec/ShellGhost
+
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
