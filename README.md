@@ -109,6 +109,7 @@ https://github.com/NUL0x4C/AtomLdr
 
 https://github.com/lem0nSec/ShellGhost
 
+https://github.com/RtlDallas/KrakenMask
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
