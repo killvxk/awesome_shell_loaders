@@ -113,6 +113,8 @@ https://github.com/RtlDallas/KrakenMask
 
 https://github.com/S3cur3Th1sSh1t/Caro-Kann
 
+https://github.com/Maldev-Academy/MaldevAcademyLdr.1
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
