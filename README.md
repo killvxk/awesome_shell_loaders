@@ -117,6 +117,8 @@ https://github.com/Maldev-Academy/MaldevAcademyLdr.1
 
 https://github.com/BambiZombie/StagerDemo
 
+https://github.com/icyguider/LatLoader
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
