@@ -138,5 +138,9 @@ https://github.com/trustedsec/COFFLoader
 
 https://github.com/ShadowMccc/MemoryEvasion
 
+https://github.com/EvanMcBroom/perfect-loader
+
+
+
 
 
