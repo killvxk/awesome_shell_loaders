@@ -119,6 +119,9 @@ https://github.com/BambiZombie/StagerDemo
 
 https://github.com/icyguider/LatLoader
 
+https://github.com/RtlDallas/Jomungand
+
+
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
 
