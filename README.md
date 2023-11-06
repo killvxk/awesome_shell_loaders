@@ -121,6 +121,8 @@ https://github.com/icyguider/LatLoader
 
 https://github.com/RtlDallas/Jomungand
 
+https://github.com/D3Ext/Hooka
+
 
 ## other useful loaders
 https://github.com/jnastarot/native_peloader
