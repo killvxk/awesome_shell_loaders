@@ -145,6 +145,8 @@ https://github.com/ShadowMccc/MemoryEvasion
 
 https://github.com/EvanMcBroom/perfect-loader
 
+https://github.com/Cracked5pider/LdrLibraryEx
+
 
 
 
